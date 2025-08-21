@@ -3,7 +3,6 @@ package com.tns.dayeight.abstraction;
 
 
 public class AbstractDemo {
-	
 
 	public static void main(String[] args) {
 		Square sq=new Square();
